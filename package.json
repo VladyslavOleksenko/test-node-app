@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "serve": "nodemon expressServer.js",
+    "express": "nodemon expressServer.js",
+    "ejs": "nodemon ejs.js",
     "start": "node expressServer.js"
   },
   "repository": {
